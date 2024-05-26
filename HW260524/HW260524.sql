@@ -17,7 +17,6 @@ db.videos.find(
 
 )
 
-
 //4.Вывести страны и имена всех юзеров
 db.users.find(
     {}, // filter
